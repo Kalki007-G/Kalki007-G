@@ -8,7 +8,7 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
+![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Work-7DD3FC?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
@@ -36,7 +36,6 @@ const gopalKarmakar = {
     "disaster-management-frontend",
     "blog-application",
   ],
-  certifications: [], // add yours here — this section is ready whenever you are
   status: "Actively building real-world backend + AI projects",
   openTo: ["Backend Developer Roles", "Java/Spring Boot Opportunities", "AI-Backend Collaborations"],
 };
@@ -113,7 +112,7 @@ Spring Boot blog management backend with JWT authentication, image uploads, pagi
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=java,py,mysql,postgres" />
 
 **Backend / Frameworks**
 
@@ -123,12 +122,12 @@ Spring Boot blog management backend with JWT authentication, image uploads, pagi
 
 <img src="https://skillicons.dev/icons?i=docker,aws" />
 &nbsp;
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=7dd3fc)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=7dd3fc)
+![Render](https://img.shields.io/badge/Render-7DD3FC?style=for-the-badge&labelColor=0d1117)
+![Railway](https://img.shields.io/badge/Railway-7DD3FC?style=for-the-badge&labelColor=0d1117)
 
 **AI / Data**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,jupyter,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
 
 **Dev Tools**
 
