@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Gopal%20Karmakar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Backend%20Developer%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Gopal%20Karmakar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Backend%20Developer%20and%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <a href="https://github.com/Kalki007-G">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Building+Disaster+Management+Systems;Exploring+AI+%2B+Backend+Engineering;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -36,6 +36,7 @@ const gopalKarmakar = {
     "disaster-management-frontend",
     "blog-application",
   ],
+  certifications: [], // add yours here — this section is ready whenever you are
   status: "Actively building real-world backend + AI projects",
   openTo: ["Backend Developer Roles", "Java/Spring Boot Opportunities", "AI-Backend Collaborations"],
 };
@@ -50,7 +51,7 @@ const gopalKarmakar = {
 Secure Spring Boot REST API powering a real-time disaster management platform, with role-based JWT authentication, incident tracking, team assignment, and live WebSocket updates.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalki007-G&repo=disaster-management-backend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="disaster-management-backend"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalki007-G&repo=disaster-management-backend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="disaster-management-backend"/>
 </div>
 
 | Layer | Technology |
@@ -71,7 +72,7 @@ Secure Spring Boot REST API powering a real-time disaster management platform, w
 Interactive, role-based frontend for the Disaster Management System, featuring a live incident map and real-time WebSocket updates for citizens, responders, and admins.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalki007-G&repo=disaster-management-frontend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="disaster-management-frontend"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalki007-G&repo=disaster-management-frontend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="disaster-management-frontend"/>
 </div>
 
 | Layer | Technology |
@@ -92,7 +93,7 @@ Interactive, role-based frontend for the Disaster Management System, featuring a
 Spring Boot blog management backend with JWT authentication, image uploads, pagination, and Swagger-documented REST APIs — containerized with Docker and deployed on Render.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalki007-G&repo=blog-application&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="blog-application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalki007-G&repo=blog-application&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="blog-application"/>
 </div>
 
 | Layer | Technology |
